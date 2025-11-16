@@ -3,4 +3,6 @@ Scripts
 Include
 pyvenv.cfg
 Audio
+.venv
 Videos
+Output
