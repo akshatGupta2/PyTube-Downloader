@@ -59,3 +59,5 @@ This project is a Python-based video downloader built using the `pytube-fix` lib
 3. Select the desired video by typing the `itag`.
 4. Choose whether to merge the downloaded video and audio files.
 5. The merged file will be saved in the `Output` directory.
+
+---
